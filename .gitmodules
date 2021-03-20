@@ -1,3 +1,6 @@
 [submodule "modules/voxel"]
 	path = modules/voxel
 	url = https://github.com/RyanCargan/godot_voxel.git
+[submodule "modules/slicer"]
+	path = modules/slicer
+	url = https://github.com/RyanCargan/godot-slicer.git
